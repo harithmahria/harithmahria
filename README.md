@@ -24,12 +24,12 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harithmahria&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="harithmahria" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harithmahria&show_icons=true&locale=en&theme=synthwave" alt="soheab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harithmahria&show_icons=true&locale=en&theme=synthwave" alt="harithmahria" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harithmahria&theme=synthwave" alt="harithmahria" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Soheab_&layout=compact&theme=synthwave" alt="wakatime"/> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harithmahria_&layout=compact&theme=synthwave" alt="wakatime"/> 
   </a> 
 </p>
