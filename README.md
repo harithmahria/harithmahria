@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harithmahria_&layout=compact&theme=synthwave" alt="wakatime"/> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harithmahria&layout=compact&theme=synthwave" alt="wakatime"/> 
   </a> 
 </p>
