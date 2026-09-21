@@ -1,35 +1,112 @@
-<h1 align="center">Hi 👋, I'm harithmahria</h1>
-<h3 align="center">A passionate Software Developer student</h3>
+<h1 align="center">Hi 👋, I'm Harith Mahria</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harithmahria&label=Profile%20views&color=0e75b6&style=flat" alt="harithmahria" /> </p>
+<h3 align="center">
+  Software Developer • Full-Stack Development • Building Apps & Systems
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harithmahria" alt="harithmahria" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harithmahria&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Developer
+- 🚀 Building web applications, mobile apps and backend systems
+- 📱 Working with modern frontend and backend technologies
+- 🗄️ Experience with SQL and databases
+- 🧠 Always learning new technologies
+- ⚡ Interested in AI, automation and scalable software
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,mysql,postgres,sqlite,git,github,docker,vscode,flutter,dart&perline=8" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=harithmahria&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=harithmahria&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harithmahria&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="harithmahria" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harithmahria&show_icons=true&locale=en&theme=synthwave" alt="harithmahria" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harithmahria&theme=synthwave" alt="harithmahria" />
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithmahria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harithmahria&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=harithmahria&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+/>
+
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harithmahria&theme=tokyonight"
+/>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harithmahria&layout=compact&theme=synthwave" alt="wakatime"/> 
-  </a> 
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harithmahria&theme=tokyonight"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harithmahria&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve</b>
 </p>
